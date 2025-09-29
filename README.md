@@ -10,8 +10,7 @@ This project demonstrates basic sales data analysis using **Pandas** and **Matpl
 - Generate bar charts and line charts for insights
 
 ## How to Run
-Install dependencies:
-   pip install pandas matplotlib
+Install dependencies: pandas matplotlib
 
    Run the Jupyter notebook
 
